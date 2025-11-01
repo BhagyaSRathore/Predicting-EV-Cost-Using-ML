@@ -1,0 +1,8 @@
+Predicting-EV-Cost-Using-ML/
+│
+├── data/                            # Folder to store your dataset
+│   └── electric_vehicles.csv        # Your Kaggle dataset file
+├── notebooks/
+├── src/
+├── README.md
+└── requirements.txt
